@@ -109,4 +109,4 @@ container.addEventListener('click', (e) => {
     }
 })
 
-container.addEventListener('submit', addTask)
+container.addEventListener('submit', addTask);
